@@ -2,11 +2,11 @@
 <p align="center">
   <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White" 
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  </p>
   <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
+ </p>
 <!--
 **sossont/sossont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
