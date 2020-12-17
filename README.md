@@ -1,23 +1,27 @@
+
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)<br>
-<p align="center">
+
+# Hwan Woo Jung
+<br>
+프로그래머를 꿈꾸는 컴퓨터공학과 학생
+
+### Stack
+
   <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White" 
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
- </p>
-<!--
-**sossont/sossont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+<a href="https://velog.io/@sossont">
+  <img src="http://img.shields.io/badge/-Velog-green?style=flat-square&logo=Vine"
+  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+</a>
+<a href="https://www.instagram.com/0o_hwan/">
+  <img src="http://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram"
+  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+</a>
