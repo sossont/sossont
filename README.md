@@ -1,8 +1,8 @@
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)
 
-<img src="http://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=Python">
-<img src="http://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=JavaScript">
-<img src="http://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=C%2B%2B">
+<img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White">
+<img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript">
+<img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B">
 <!--
 **sossont/sossont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
