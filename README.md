@@ -1,8 +1,8 @@
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)
 <a>
 <img
-src="http://img.shields.io/badge/-Python-Black?style=for-the-badge&logo=3776AB">
-  </a>
+src = "http://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=Python>
+</a>
  
 <!--
 **sossont/sossont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
