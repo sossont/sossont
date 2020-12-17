@@ -1,6 +1,8 @@
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)<br>
+<p align="center">
   <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White" 
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  </p>
   <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B"
