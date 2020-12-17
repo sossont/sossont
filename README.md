@@ -2,7 +2,7 @@
 
 <img src="http://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=Python">
 <img src="http://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=JavaScript">
- 
+<img src="http://img.shields.io/badge/-C++-ffffff?style=for-the-badge&logo=C%2B%2B">
 <!--
 **sossont/sossont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
