@@ -2,9 +2,8 @@
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)<br>
 
 # Hwan Woo Jung
-<br>
 프로그래머를 꿈꾸는 컴퓨터공학과 학생
-
+<br>
 ### Stack
 
   <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White" 
