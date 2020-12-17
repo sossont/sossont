@@ -1,5 +1,5 @@
 
-[![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)<br>
+[![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true)](https://github.com/sossont/github-readme-stats)<br>
 
 # Hwan Woo Jung
 프로그래머를 꿈꾸는 컴퓨터공학과 학생
