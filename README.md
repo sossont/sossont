@@ -1,5 +1,5 @@
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true&theme=radical)](https://github.com/sossont/github-readme-stats)
-<a>
+<a href="">
 <img
 src = "http://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=Python>
 </a>
