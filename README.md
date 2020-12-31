@@ -12,7 +12,7 @@
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  <img src="http://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift"
+  <img src="http://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift&logoColor=White"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
 
 <br>
