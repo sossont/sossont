@@ -6,7 +6,7 @@
 <br>
 ### Stack
 
-  <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python&logoColor=White" 
+  <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python?logoColor=White" 
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
   <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
