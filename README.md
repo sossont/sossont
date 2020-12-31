@@ -6,15 +6,15 @@
 <br>
 ### Stack
 
-  <img src="http://img.shields.io/badge/-Python-lightgrey?style=flat-square&logo=Python?logoColor=White" 
+  <img src="http://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=Python?logoColor=White" 
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  <img src="http://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=JavaScript"
+  <img src="http://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  <img src="http://img.shields.io/badge/-C++-blue?style=flat-square&logo=C%2B%2B"
+  <img src="http://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  <img src="http://img.shields.io/badge/-Swift-orange?style=flat-square&logo=Swift"
+  <img src="http://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift"
   style ="height:10px; margin-left:10px; margin-right:10px;"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <br>
 
