@@ -1,6 +1,8 @@
 
 [![Hwan Woo Jung's github stats](https://github-readme-stats.vercel.app/api?username=sossont&show_icons=true)](https://github.com/sossont/github-readme-stats)<br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sossont})](https://solved.ac/{sossont})
 # Hwan Woo Jung
 프로그래머를 꿈꾸는 컴퓨터공학과 학생
 <br>
