@@ -10,24 +10,24 @@
 ### Stack
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" 
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=JavaScript"
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
   <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=C%2B%2B"
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
   <img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
 
 <br>
 
 ### About Me
 <a href="https://velog.io/@sossont">
   <img src="http://img.shields.io/badge/-Velog-green?style=flat-square&logo=Vine"
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
 </a>
 <a href="https://www.instagram.com/0o_hwan/">
   <img src="http://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram"
-  style ="height:10px; margin-left:10px; margin-right:10px;"/>
+  style ="height:20px; margin-left:10px; margin-right:10px;"/>
 </a>
 <br>
 <br>
