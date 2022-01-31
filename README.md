@@ -18,6 +18,10 @@
   style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
   <img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"
   style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Swift&logoColor=white"
+  style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Swift&logoColor=white"
+  style ="height:25px; margin-left:10px; margin-right:10px; text-align: center;"/>
 
 <br>
 
